@@ -17,7 +17,7 @@ struct LoginPage: View {
                     .padding()
             }
             VStack {
-                Text("Welcome to Pregnancy +")
+                Text("Welcome to Pregnancy+")
                     .font(.title)
                     .fontWeight(.bold)
             }
